@@ -1,6 +1,6 @@
-package br.com.cod3r.abstractfactory.apple.model.iphone;
+package com.github.andrielson.abstractfactory.apple.model.iphone;
 
-import br.com.cod3r.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory;
+import com.github.andrielson.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory;
 
 public class IPhoneXSMax extends IPhone {
 

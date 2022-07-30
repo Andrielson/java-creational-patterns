@@ -1,4 +1,4 @@
-package br.com.cod3r.prototype.deepShallow.model;
+package com.github.andrielson.prototype.deepShallow.model;
 
 public class User implements Cloneable {
 	public String name;

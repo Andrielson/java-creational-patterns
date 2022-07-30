@@ -1,7 +1,7 @@
-package br.com.cod3r.prototype.functionalCloneBuilder;
+package com.github.andrielson.prototype.functionalCloneBuilder;
 
-import br.com.cod3r.prototype.functionalCloneBuilder.model.Address;
-import br.com.cod3r.prototype.functionalCloneBuilder.model.User;
+import com.github.andrielson.prototype.functionalCloneBuilder.model.Address;
+import com.github.andrielson.prototype.functionalCloneBuilder.model.User;
 
 public class Client {
 

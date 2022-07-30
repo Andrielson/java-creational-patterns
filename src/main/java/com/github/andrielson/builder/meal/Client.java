@@ -1,4 +1,4 @@
-package br.com.cod3r.builder.meal;
+package com.github.andrielson.builder.meal;
 
 public class Client {
 	

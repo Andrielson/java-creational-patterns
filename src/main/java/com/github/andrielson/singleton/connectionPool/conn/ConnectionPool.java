@@ -1,4 +1,4 @@
-package br.com.cod3r.singleton.connectionPool.conn;
+package com.github.andrielson.singleton.connectionPool.conn;
 
 import java.util.ArrayList;
 import java.util.List;

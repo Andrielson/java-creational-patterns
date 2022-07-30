@@ -1,9 +1,9 @@
-package br.com.cod3r.abstractfactory.apple.factory;
+package com.github.andrielson.abstractfactory.apple.factory;
 
-import br.com.cod3r.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory;
-import br.com.cod3r.abstractfactory.apple.model.iphone.IPhone;
-import br.com.cod3r.abstractfactory.apple.model.iphone.IPhoneX;
-import br.com.cod3r.abstractfactory.apple.model.iphone.IPhoneXSMax;
+import com.github.andrielson.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory;
+import com.github.andrielson.abstractfactory.apple.model.iphone.IPhone;
+import com.github.andrielson.abstractfactory.apple.model.iphone.IPhoneX;
+import com.github.andrielson.abstractfactory.apple.model.iphone.IPhoneXSMax;
 
 public class IPhoneXFactory extends IPhoneFactory {
 

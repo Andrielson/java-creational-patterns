@@ -1,4 +1,4 @@
-package br.com.cod3r.factory.app.dbadapter;
+package com.github.andrielson.factory.app.dbadapter;
 
 public class Client {
 

@@ -1,7 +1,7 @@
-package br.com.cod3r.prototype.deepShallow;
+package com.github.andrielson.prototype.deepShallow;
 
-import br.com.cod3r.prototype.deepShallow.model.Address;
-import br.com.cod3r.prototype.deepShallow.model.User;
+import com.github.andrielson.prototype.deepShallow.model.Address;
+import com.github.andrielson.prototype.deepShallow.model.User;
 
 public class Client {
 

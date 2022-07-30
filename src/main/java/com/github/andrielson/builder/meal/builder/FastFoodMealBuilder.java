@@ -1,4 +1,4 @@
-package br.com.cod3r.builder.meal.builder;
+package com.github.andrielson.builder.meal.builder;
 
 public abstract class FastFoodMealBuilder {
 	

@@ -1,4 +1,4 @@
-package br.com.cod3r.singleton.connectionPool.conn;
+package com.github.andrielson.singleton.connectionPool.conn;
 
 public class Connection {
 private boolean inUse;

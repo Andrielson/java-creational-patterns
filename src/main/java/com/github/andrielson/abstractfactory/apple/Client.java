@@ -1,4 +1,4 @@
-package br.com.cod3r.abstractfactory.apple;
+package com.github.andrielson.abstractfactory.apple;
 
 public class Client {
 	

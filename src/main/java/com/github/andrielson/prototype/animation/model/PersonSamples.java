@@ -1,4 +1,4 @@
-package br.com.cod3r.prototype.animation.model;
+package com.github.andrielson.prototype.animation.model;
 
 import java.util.HashMap;
 import java.util.Map;

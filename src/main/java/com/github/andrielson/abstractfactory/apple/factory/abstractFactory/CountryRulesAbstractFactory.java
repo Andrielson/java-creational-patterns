@@ -1,7 +1,7 @@
-package br.com.cod3r.abstractfactory.apple.factory.abstractFactory;
+package com.github.andrielson.abstractfactory.apple.factory.abstractFactory;
 
-import br.com.cod3r.abstractfactory.apple.model.certificate.Certificate;
-import br.com.cod3r.abstractfactory.apple.model.packing.Packing;
+import com.github.andrielson.abstractfactory.apple.model.certificate.Certificate;
+import com.github.andrielson.abstractfactory.apple.model.packing.Packing;
 
 public interface CountryRulesAbstractFactory {
 	Certificate getCertificates();

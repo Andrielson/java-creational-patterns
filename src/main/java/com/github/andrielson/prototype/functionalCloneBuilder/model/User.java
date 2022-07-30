@@ -1,4 +1,4 @@
-package br.com.cod3r.prototype.functionalCloneBuilder.model;
+package com.github.andrielson.prototype.functionalCloneBuilder.model;
 
 public class User {
 	private String name;
